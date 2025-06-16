@@ -1,0 +1,4 @@
+node_modules/
+_output/
+.cache/
+.DS_Store/
